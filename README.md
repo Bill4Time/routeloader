@@ -56,6 +56,8 @@ module.exports = router;
 In order to register routes you need to create a javascript object that has the route's information configured in it. For the sake of ease, the route-loader comes with some template routes that return the information configured by default, so that you the developer need to interact minimally with the code.
 
 ```javascript
+// default-routes.js
+
 // Load the template routes from the route-loader module
 templateRoutes = require('route-loader').TemplateRoutes;
 
@@ -67,6 +69,8 @@ module.exports = routes;
 ```
 The above code is directly equivalent to this code below:
 ```javascript
+// default-routes.js
+
 // Load the template routes from the route-loader module
 templateRoutes = require('route-loader').TemplateRoutes;
 
