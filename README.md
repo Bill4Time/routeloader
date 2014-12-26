@@ -7,6 +7,5 @@ This is a node module created to simplify the functionality of the [Express](htt
 ## Classes
 
 - [Route Loader](documentation/RouteLoader.md)
-
-- Route
-- Template Routes
+- [Route](documentation/Route.md)
+- [Template Route](documentation/TemplateRoute.md)
