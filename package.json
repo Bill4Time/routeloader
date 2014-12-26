@@ -36,5 +36,8 @@
       "name": "windhandelj",
       "email": "jeff@goaldriven.com"
     }
-  ]
+  ],
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
