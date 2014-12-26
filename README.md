@@ -9,10 +9,10 @@ To use the route-loader module all you have to do is require the module, create 
 ## Installation
 ```javascript
 // to install in the local directory
-npm install route-loader
+npm install routeloader
 
 // to install in the local directory and save to the package.json
-npm install route-loader --save
+npm install routeloader --save
 ```
 ## Example Usage
 The directory structure is:  
