@@ -1,0 +1,40 @@
+{
+  "name": "route-loader",
+  "author": "Logan Knecht",
+  "main": "lib/index.js",
+  "version": "0.1.0",
+  "description": "This is a node module created to help provided extended functionality for the Express node Router.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill4Time/route-loader"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "router",
+    "route",
+    "loader"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bill4Time/route-loader/issues"
+  },
+  "homepage": "https://github.com/Bill4Time/route-loader",
+  "maintainers": [
+    {
+      "name": "loganknecht",
+      "email": "loganknecht@gmail.com"
+    },
+    {
+      "name": "jzon",
+      "email": "jeremydiviney@gmail.com"
+    },
+    {
+      "name": "windhandelj",
+      "email": "jeff@goaldriven.com"
+    }
+  ]
+}
