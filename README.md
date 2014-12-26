@@ -6,7 +6,14 @@ This is a node module created to simplify the functionality of the [Express](htt
 The Express web server (in node) is a great way to configure the server side of web sites and web applications. With Express 4.0 comes the separation of Router objects from the App itself. Because of this change it seemed like a good idea to create an easier way to load routes, and segment them so that managing multiple files or routes didn't explode in one location.
 
 To use the route-loader module all you have to do is require the module, create some routes, and load them into the router.
+## Installation
+```javascript
+// to install in the local directory
+npm install route-loader
 
+// to install in the local directory and save to the package.json
+npm install route-loader --save
+```
 ## Example Usage
 The directory structure is:  
 /Users/username/node project/  
