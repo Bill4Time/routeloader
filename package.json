@@ -3,7 +3,7 @@
   "author": "Logan Knecht",
   "main": "lib/index.js",
   "version": "0.1.0",
-  "description": "This is a node module created to help provided extended functionality for the Express node Router.",
+  "description": "This is a node module created to help registering routes for Express Routers.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
