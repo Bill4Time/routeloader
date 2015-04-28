@@ -1,43 +1,39 @@
 {
-  "name": "routeloader",
-  "author": "Logan Knecht",
-  "main": "lib/index.js",
-  "version": "0.1.0",
-  "description": "This is a node module created to help registering routes for Express Routers.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Bill4Time/routeloader"
-  },
-  "keywords": [
-    "node",
-    "express",
-    "router",
-    "route",
-    "loader"
-  ],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Bill4Time/routeloader/issues"
-  },
-  "homepage": "https://github.com/Bill4Time/routeloader",
-  "maintainers": [
-    {
-      "name": "loganknecht",
-      "email": "loganknecht@gmail.com"
+    "name": "routeloader",
+    "author": "Logan Knecht",
+    "main": "lib/index.js",
+    "version": "0.1.1",
+    "description": "This is a node module created to help registering routes for Express Routers.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    {
-      "name": "jzon",
-      "email": "jeremydiviney@gmail.com"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bill4Time/routeloader"
     },
-    {
-      "name": "windhandelj",
-      "email": "jeff@goaldriven.com"
+    "keywords": [
+        "node",
+        "express",
+        "router",
+        "route",
+        "loader"
+    ],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Bill4Time/routeloader/issues"
+    },
+    "homepage": "https://github.com/Bill4Time/routeloader",
+    "maintainers": [{
+        "name": "loganknecht",
+        "email": "loganknecht@gmail.com"
+    }, {
+        "name": "jzon",
+        "email": "jeremydiviney@gmail.com"
+    }, {
+        "name": "windhandelj",
+        "email": "jeff@goaldriven.com"
+    }],
+    "dependencies": {
+        "lodash": "^2.4.1"
     }
-  ],
-  "dependencies": {
-    "lodash": "^2.4.1"
-  }
 }
