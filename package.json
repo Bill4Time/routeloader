@@ -1,5 +1,5 @@
 {
-    "name": "routeloader",
+    "name": "@bill4time/routeloader",
     "author": "Logan Knecht",
     "main": "lib/index.js",
     "version": "0.1.2",
