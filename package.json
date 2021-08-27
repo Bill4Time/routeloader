@@ -2,7 +2,7 @@
     "name": "@bill4time/routeloader",
     "author": "Logan Knecht",
     "main": "lib/index.js",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "This is a node module created to help registering routes for Express Routers.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,6 +34,6 @@
         "email": "jeff@goaldriven.com"
     }],
     "dependencies": {
-        "lodash": "^2.4.1"
+        "lodash": "^4.17.21"
     }
 }
